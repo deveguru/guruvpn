@@ -1,5 +1,5 @@
 # guruvpn
-a pretty VPN SSH simply Connection app
+a pretty VPN SSH simply Connection app with NO PAIN!
 <a href="https://alirezafatemi.ir/GuruVPN-x64.zip" target="_blank">
     Download Ling
 </a>
@@ -15,3 +15,4 @@ a pretty VPN SSH simply Connection app
 </a>
 
 <br><br>
+
