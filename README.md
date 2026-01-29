@@ -36,7 +36,7 @@ A pretty VPN SSH simply Connection app with NO PAIN!
 
 # فیلترشکن گورو
 
-برای اتصال راحت و بدون درد به پروتکل‌های SSH!
+برای اتصال راحت و بدون درد! به پروتکل‌های SSH
 
 ## دانلود برای ویندوز
 <a href="https://alirezafatemi.ir/GuruVPN-x64.zip" target="_blank">
