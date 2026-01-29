@@ -7,7 +7,7 @@ a pretty VPN SSH simply Connection app
 <br><br>
 
 
-#فیلترشکن گورو
+#فیلترشکن-گورو
 
 برای اتصال راحت و بدون درد! به پروتکل های SSH
 <a href="https://alirezafatemi.ir/GuruVPN-x64.zip" target="_blank">
