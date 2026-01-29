@@ -2,7 +2,7 @@
 A pretty VPN SSH simply Connection app with NO PAIN!
 
 ## Download for Windows
-<a href="https://alirezafatemi.ir/GuruVPN-x64.zip" target="_blank">
+<a href="https://github.com/deveguru/guruvpn/releases/download/windows/GuruVPN-x64.zip" target="_blank">
     Download Link for Windows (x64)
 </a>
 
@@ -39,7 +39,7 @@ A pretty VPN SSH simply Connection app with NO PAIN!
 برای اتصال راحت و بدون درد! به پروتکل‌های SSH
 
 ## دانلود برای ویندوز
-<a href="https://alirezafatemi.ir/GuruVPN-x64.zip" target="_blank">
+<a href="https://github.com/deveguru/guruvpn/releases/download/windows/GuruVPN-x64.zip" target="_blank">
     دانلود مستقیم نسخه ویندوز (x64)
 </a>
 
