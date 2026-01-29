@@ -70,6 +70,4 @@ A pretty VPN SSH simply Connection app with NO PAIN!
 </a>
 
 
-https://play-lh.googleusercontent.com/s564-TVX-LhZ9qD-H6BG-VEPxXyEM_Z3x5hdJbQ_AbzKvqsngn8fCjezow49wg8jsRg=w240-h480
 
-https://play-lh.googleusercontent.com/K28Amqmw0DXvcQ5kVW016RjjnRkNpSi0VXE_-fX-PgO6ewQFCd4hmQZcB-YbyjI8IE7vDGedNfNoJSuoBNlj0w=w240-h480
