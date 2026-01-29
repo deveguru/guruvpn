@@ -14,5 +14,3 @@ a pretty VPN SSH simply Connection app
 </a>
 
 <br><br>
-
-![Uploading guruapp.png…]()
